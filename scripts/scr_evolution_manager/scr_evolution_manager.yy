@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_evolution_manager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_evolution_manager",
+  "parent":{
+    "name":"AI",
+    "path":"folders/Scripts/AI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

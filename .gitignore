@@ -1,0 +1,5 @@
+output/
+*.win
+*.yydebug
+.DS_Store
+Thumbs.db
